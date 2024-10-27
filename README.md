@@ -5,6 +5,7 @@ Ce projet est une application web CRUD (Create, Read, Update, Delete) développ�
 Lister les utilisateurs : affichage de la liste complète des utilisateurs enregistrés dans la base de données.
 Ajouter un utilisateur : possibilité d'ajouter un nouvel utilisateur en renseignant un nom et un email.
 Mettre à jour un utilisateur : possibilité de modifier les informations d'un utilisateur existant.
+Supprimer un utilisateur : suppression d'un utilisateur de la liste et de la base de données.
 # Prérequis
 Java 17
 MySQL
